@@ -1,0 +1,14 @@
+.container {
+    width: 700px;
+    margin: 50px auto;
+    
+    
+  }
+  
+  .title {
+    color: black;
+    margin: 25px auto 15px;
+    text-align: center;
+    font-size: 30px;
+  }
+  
